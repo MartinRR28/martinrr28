@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/fc/a9/b5/fca9b5e8abf6f1b8e0cf863ef88a9af2.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://tse3.mm.bing.net/th?id=OIP.RCirNwxNYO-WIxJ4cRgCCQHaEc&pid=Api&P=0&h=180)https://tse3.mm.bing.net/th?id=OIP.RCirNwxNYO-WIxJ4cRgCCQHaEc&pid=Api&P=0&h=180">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
